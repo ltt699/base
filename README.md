@@ -8,11 +8,12 @@
 knowledge-base/
 ├── README.md            ← 本文件：使用说明
 ├── INDEX.md             ← 总索引：所有模型的速查表
+├── ANALYSIS-LOG.md      ← 分析记录：可证伪判断存档 + 正确率统计
 ├── templates/
 │   └── model-template.md ← 新增模型的标准模板
-├── 01-value-investing/   ← 价值投资体系（M01-M06）
+├── 01-value-investing/   ← 价值投资体系（M01-M06、M18、M19、M21-M24）
 ├── 02-futures-arbitrage/ ← 期货套利体系（M07-M09）
-├── 03-trading-risk/      ← 交易与风控体系（M10-M12）
+├── 03-trading-risk/      ← 交易与风控体系（M10-M12、M20）
 ├── 04-technical/         ← 技术分析体系（M13）
 ├── 05-finance/           ← 财务分析体系（M14）
 └── 06-data-analysis/     ← 数据分析体系（M15-M17）
