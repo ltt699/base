@@ -15,7 +15,7 @@ knowledge-base/
 ├── 01-value-investing/   ← 价值投资体系（M01-M06、M18、M19、M21-M24）
 ├── 02-futures-arbitrage/ ← 期货套利体系（M07-M09）
 ├── 03-trading-risk/      ← 交易与风控体系（M10-M12、M20）
-├── 04-technical/         ← 技术分析体系（M13）
+├── 04-technical/         ← 技术分析体系（M13、M29）
 ├── 05-finance/           ← 财务分析体系（M14、M25-M28）
 └── 06-data-analysis/     ← 数据分析体系（M15-M17）
 ```
